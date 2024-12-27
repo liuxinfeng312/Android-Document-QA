@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DEMO</string>
+
+    <string name="prompt_1">
+Here is the retrieved context
+--------------------------------------------------
+$CONTEXT
+--------------------------------------------------
+Here is the user\'s query: $QUERY
+    </string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
